@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WTW</string>
+    <string name="default_loaction">Fetching Location</string>
+    <string name="default_temp">NA</string>
+    <string name="change_city_description">Click Here to Change City</string>
+    <string name="weather_description">THis is a weather Symbol</string>
+    <string name="back_button_description">Dismmis change city screen</string>
+    <string name="get_weather">Change City</string>
+    <string name="default_query">Enter city Name</string>
+</resources>
